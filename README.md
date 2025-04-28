@@ -107,7 +107,3 @@ echo "Hello OpenSSL Testing" > input.txt
 - Both programs will display timing results for performance comparison.
 
 ---
-
-> Good Luck! 🌟
-
-Ready for testing, documentation, and submission!
